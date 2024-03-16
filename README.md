@@ -1,7 +1,11 @@
 **Title: The 7 Principles of Swiss Democracy**
+
 **Alternative names**: SwissDem7, SDEM7, Sdem7, SwissDemocracy7, swissdem7, sdem7
+
 **Version:** 1.0
+
 **Website:** https://thedemocracyupgrade.org/swissdem7
+
 
 **Preamble:**
 
